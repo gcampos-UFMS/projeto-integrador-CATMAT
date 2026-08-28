@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pt-BR">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Aplicação de apoio à pesquisa de preços por código CATMAT.">
+<title>Consulta CATMAT | Pesquisa de Preços</title><link rel="stylesheet" href="/static/style.css"></head>
+<body>
+<header class="site-header"><div class="container"><p class="eyebrow">APOIO TECNOLÓGICO À PESQUISA DE PREÇOS</p><h1>Consulta CATMAT</h1><p class="subtitle">Compras.gov.br · dados públicos · referências PNCP</p></div></header>
+<main id="app" class="container">
+<section class="intro"><p class="eyebrow">APLICAÇÃO WEB DINÂMICA</p><h2>Consulte e organize registros de preços</h2><p>Informe um código CATMAT e consulte o resultado sem recarregar a página.</p></section>
+<section class="card search-card"><h2>Nova consulta</h2><form @submit.prevent="consultar"><div class="field">
+<label for="catmat">Código CATMAT</label><input id="catmat" v-model="catmat" inputmode="numeric" pattern="[0-9]+" maxlength="10" required aria-describedby="catmat-help">
+<small id="catmat-help">Informe somente números.</small></div><button type="submit" :disabled="loading">{{ loading ? 'Consultando...' : 'Consultar preços' }}</button></form></section>
+<section v-if="error" class="alert" role="alert"><strong>Não foi possível concluir a consulta.</strong><span>{{ error }}</span></section>
+<section v-if="result" aria-live="polite">
+<div class="result-head"><div><p class="eyebrow">RESULTADO</p><h2>Pesquisa para o CATMAT {{ catmat }}</h2></div><span class="timestamp">Exibido em {{ result.generated_at }}</span></div>
+<section class="card summary-card"><h3>Resumo da consulta</h3><dl class="summary-grid">
+<div class="summary-item description"><dt>Descrição</dt><dd>{{ result.descricao }}</dd></div>
+<div class="summary-item"><dt>Registros consultados</dt><dd>{{ result.original_count }}</dd></div>
+<div class="summary-item"><dt>Após saneamento</dt><dd>{{ result.sanitized_count }}</dd></div>
+<div class="summary-item"><dt>Preço final</dt><dd>R$ {{ money(result.final_price) }}</dd></div>
+</dl><p class="experimental-note"><strong>Critério experimental:</strong> faixa de 50% acima/abaixo da mediana inicial, seguida da escolha do menor valor entre média e mediana da amostra saneada. A metodologia deve ser validada antes de utilização definitiva.</p>
+</section>
+<section class="card table-card"><div class="table-head"><h3>Registros de preços</h3><p>{{ result.rows.length }} registros retornados · {{ result.sanitized_count }} considerados após saneamento</p></div>
+<div class="table-wrapper"><table><caption>Registros de preços retornados para o CATMAT informado.</caption>
+<thead><tr><th>Ata</th><th>Unidade gerenciadora</th><th>Fornecedor</th><th>CNPJ</th><th>Quantidade</th><th>Valor unitário</th><th>Valor total</th><th>PNCP</th><th>Situação</th></tr></thead>
+<tbody><tr v-for="row in result.rows" :key="row.ata + row.cnpj + row.quantidade + row.valor_unitario + row.valor_total">
+<td data-label="Ata">{{ row.ata }}</td><td data-label="Unidade">{{ row.unidade }}</td><td data-label="Fornecedor">{{ row.fornecedor }}</td>
+<td data-label="CNPJ">{{ row.cnpj }}</td><td data-label="Quantidade">{{ num(row.quantidade) }}</td>
+<td data-label="Valor unitário">R$ {{ money(row.valor_unitario) }}</td><td data-label="Valor total">R$ {{ money(row.valor_total) }}</td>
+<td data-label="PNCP"><a :href="row.link" target="_blank" rel="noopener noreferrer">Consultar</a></td>
+<td data-label="Situação"><span class="status" :class="row.considerado ? 'ok' : 'out'">{{ row.considerado ? 'Considerado' : 'Fora da amostra' }}</span></td>
+</tr></tbody></table></div></section>
+</section></main>
+<footer class="site-footer"><div class="container">Projeto Integrador de Tecnologia da Informação · UFMS · 2026.2</div></footer>
+<script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+<script>
+const{createApp}=Vue;createApp({data(){return{catmat:'462546',result:null,error:'',loading:false}},methods:{
+money(v){return Number(v||0).toLocaleString('pt-BR',{minimumFractionDigits:2,maximumFractionDigits:2})},
+num(v){return Number(v||0).toLocaleString('pt-BR',{minimumFractionDigits:2,maximumFractionDigits:2})},
+async consultar(){this.error='';this.result=null;this.loading=true;try{const r=await fetch('/api/consulta?catmat='+encodeURIComponent(this.catmat));const d=await r.json();if(!r.ok)throw new Error(d.error||'Falha na consulta.');this.result=d}catch(e){this.error=e.message}finally{this.loading=false}}
+}}).mount('#app');
+</script></body></html>
