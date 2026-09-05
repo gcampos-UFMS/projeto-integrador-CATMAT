@@ -1,0 +1,541 @@
+{
+  "catmat": "462546",
+  "descricao": "CANETA ESFEROGRÁFICA, MATERIAL PLÁSTICO, QUANTIDADE CARGAS 1 UN, MATERIAL PONTA AÇO INOXIDÁVEL COM ESFERA DE TUNGSTÊNIO, TIPO ESCRITA MÉDIA, COR TINTA AZUL",
+  "quantidade_precos": 53,
+  "preco_medio": 9.06,
+  "data_cotacao": "11/02/2026 08:39",
+  "precos_apos_saneamento": 28,
+  "preco_final_sugerido": 0.49,
+  "resultado": [
+    {
+      "numeroAtaRegistroPreco": "00192/20",
+      "nomeUnidadeGerenciadora": "PREFEITURA MUNICIPAL DE BELO JARDIM",
+      "nomeRazaoSocialFornecedor": "F MACIEL LTDA",
+      "niFornecedor": "10228336000160",
+      "quantidadeHomologadaVencedor": "100,00",
+      "valorUnitario": "24,00",
+      "valorTotal": "2400,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/10260222000105/2025/203/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00666/20",
+      "nomeUnidadeGerenciadora": "HOSPITAL UNIVERSITARIO DE SANTA MARIA",
+      "nomeRazaoSocialFornecedor": "TACCUINO DISTRIBUIDORA DE MATERIAIS LTDA",
+      "niFornecedor": "48057203000140",
+      "quantidadeHomologadaVencedor": "2000,00",
+      "valorUnitario": "0,48",
+      "valorTotal": "960,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/15126437000305/2025/942/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00666/20",
+      "nomeUnidadeGerenciadora": "HOSPITAL UNIVERSITARIO DE SANTA MARIA",
+      "nomeRazaoSocialFornecedor": "TACCUINO DISTRIBUIDORA DE MATERIAIS LTDA",
+      "niFornecedor": "48057203000140",
+      "quantidadeHomologadaVencedor": "10000,00",
+      "valorUnitario": "0,48",
+      "valorTotal": "4800,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/15126437000305/2025/942/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00030/20",
+      "nomeUnidadeGerenciadora": "TRIBUNAL REGIONAL DO TRABALHO DA 7A.REGIAO",
+      "nomeRazaoSocialFornecedor": "INOVAR INDUSTRIA E COMUNICACAO LTDA",
+      "niFornecedor": "54479179000130",
+      "quantidadeHomologadaVencedor": "1000,00",
+      "valorUnitario": "2,10",
+      "valorTotal": "2100,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/00509968000148/2025/2083/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00333/20",
+      "nomeUnidadeGerenciadora": "INST. FED. DE EDUC.,CIENC. E TEC. DE RONDONIA",
+      "nomeRazaoSocialFornecedor": "MBEM COMERCIO E DISTRIBUICAO DE MATERIAIS ESCOLARES LTDA",
+      "niFornecedor": "39700820000121",
+      "quantidadeHomologadaVencedor": "4400,00",
+      "valorUnitario": "0,72",
+      "valorTotal": "3168,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/10817343000105/2025/84/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "96151/20",
+      "nomeUnidadeGerenciadora": "INST.FED.DE EDUC.,CIENC.E TEC.DO SUL DE MG",
+      "nomeRazaoSocialFornecedor": "RC RAMOS COMERCIO LTDA",
+      "niFornecedor": "07048323000102",
+      "quantidadeHomologadaVencedor": "5000,00",
+      "valorUnitario": "0,50",
+      "valorTotal": "2500,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/10648539000105/2025/183/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00055/20",
+      "nomeUnidadeGerenciadora": "HOSPITAL DE GUARNICAO DE TABATINGA",
+      "nomeRazaoSocialFornecedor": "R. G. XAVIER GUIMARAES LTDA",
+      "niFornecedor": "32969749000138",
+      "quantidadeHomologadaVencedor": "2800,00",
+      "valorUnitario": "0,45",
+      "valorTotal": "1260,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/00394452000103/2025/17930/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00087/20",
+      "nomeUnidadeGerenciadora": "UNIVERSIDADE FEDERAL DO PARA",
+      "nomeRazaoSocialFornecedor": "P. L. FADEL INFORMATICA LTDA",
+      "niFornecedor": "15078596000110",
+      "quantidadeHomologadaVencedor": "15000,00",
+      "valorUnitario": "0,55",
+      "valorTotal": "8250,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/34621748000123/2025/163/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00327/20",
+      "nomeUnidadeGerenciadora": "HOSPITAL UNIVERSITARIO DA UNIV. FED. DO AMAPA",
+      "nomeRazaoSocialFornecedor": "R. FIGUEIREDO DA COSTA",
+      "niFornecedor": "10505707000103",
+      "quantidadeHomologadaVencedor": "5000,00",
+      "valorUnitario": "0,50",
+      "valorTotal": "2500,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/15126437000305/2025/2276/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00017/20",
+      "nomeUnidadeGerenciadora": "CONSELHO REGIONAL DE MEDICINA DO D.FEDERAL",
+      "nomeRazaoSocialFornecedor": "MCM DISTRIBUIDORA E REPRESENTACAO LTDA",
+      "niFornecedor": "60113920000148",
+      "quantidadeHomologadaVencedor": "600,00",
+      "valorUnitario": "0,48",
+      "valorTotal": "288,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/03495116000137/2025/16/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00110/20",
+      "nomeUnidadeGerenciadora": "BATALHAO NAVAL",
+      "nomeRazaoSocialFornecedor": "ISABELLE GENTIL DE ANDRADE CARDOSO LTDA",
+      "niFornecedor": "61454749000101",
+      "quantidadeHomologadaVencedor": "4200,00",
+      "valorUnitario": "0,45",
+      "valorTotal": "1890,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/00394502002864/2025/3866/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00006/20",
+      "nomeUnidadeGerenciadora": "CONSELHO REGIONAL DE CORRETORES DE IMOVEIS DA 2ª REGIÃO/SP",
+      "nomeRazaoSocialFornecedor": "MBEM COMERCIO E DISTRIBUICAO DE MATERIAIS ESCOLARES LTDA",
+      "niFornecedor": "39700820000121",
+      "quantidadeHomologadaVencedor": "5000,00",
+      "valorUnitario": "0,49",
+      "valorTotal": "2450,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/62655246000159/2025/69/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00040/20",
+      "nomeUnidadeGerenciadora": "INDUSTRIA DE MATERIAL BELICO DO BRASIL - UA VS - VIEIRA & SANTOS COMERCIO DE ARTIGOS DE PAPELARIA E INFORMATICA LTDA 23.230.795/0001-20",
+      "nomeRazaoSocialFornecedor": "8,0",
+      "niFornecedor": "23230795000120",
+      "quantidadeHomologadaVencedor": "8,00",
+      "valorUnitario": "38,80",
+      "valorTotal": "310,40",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/00444232000139/2025/14/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00519/20",
+      "nomeUnidadeGerenciadora": "HOSPITAL UNIVERSITARIO DO PIAUI",
+      "nomeRazaoSocialFornecedor": "GRAM NEGOCIOS LTDA",
+      "niFornecedor": "17552372000123",
+      "quantidadeHomologadaVencedor": "9000,00",
+      "valorUnitario": "0,49",
+      "valorTotal": "4410,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/15126437000305/2025/2848/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00519/20",
+      "nomeUnidadeGerenciadora": "HOSPITAL UNIVERSITARIO DO PIAUI",
+      "nomeRazaoSocialFornecedor": "GRAM NEGOCIOS LTDA",
+      "niFornecedor": "17552372000123",
+      "quantidadeHomologadaVencedor": "5500,00",
+      "valorUnitario": "0,49",
+      "valorTotal": "2695,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/15126437000305/2025/2848/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00519/20",
+      "nomeUnidadeGerenciadora": "HOSPITAL UNIVERSITARIO DO PIAUI",
+      "nomeRazaoSocialFornecedor": "GRAM NEGOCIOS LTDA",
+      "niFornecedor": "17552372000123",
+      "quantidadeHomologadaVencedor": "3200,00",
+      "valorUnitario": "0,49",
+      "valorTotal": "1568,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/15126437000305/2025/2848/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00350/20",
+      "nomeUnidadeGerenciadora": "PREFEITURA MUNICIPAL DE BELO JARDIM",
+      "nomeRazaoSocialFornecedor": "GRAFICA FONSECA LTDA",
+      "niFornecedor": "08513512000163",
+      "quantidadeHomologadaVencedor": "22250,00",
+      "valorUnitario": "0,90",
+      "valorTotal": "20025,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/10260222000105/2025/410/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00209/20",
+      "nomeUnidadeGerenciadora": "PREFEITURA MUNICIPAL DE BOA VISTA",
+      "nomeRazaoSocialFornecedor": "G. MENEZES DA SILVA",
+      "niFornecedor": "41796556000113",
+      "quantidadeHomologadaVencedor": "2458,00",
+      "valorUnitario": "17,99",
+      "valorTotal": "44219,42",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/05943030000155/2024/116/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00448/20",
+      "nomeUnidadeGerenciadora": "HOSPITAL DE CLINICAS DA UFTM",
+      "nomeRazaoSocialFornecedor": "UTIMIX COMERCIO LTDA",
+      "niFornecedor": "56348381000159",
+      "quantidadeHomologadaVencedor": "4000,00",
+      "valorUnitario": "0,40",
+      "valorTotal": "1600,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/15126437000305/2025/1285/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00448/20",
+      "nomeUnidadeGerenciadora": "HOSPITAL DE CLINICAS DA UFTM",
+      "nomeRazaoSocialFornecedor": "UTIMIX COMERCIO LTDA",
+      "niFornecedor": "56348381000159",
+      "quantidadeHomologadaVencedor": "4000,00",
+      "valorUnitario": "0,42",
+      "valorTotal": "1680,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/15126437000305/2025/1285/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00448/20",
+      "nomeUnidadeGerenciadora": "HOSPITAL DE CLINICAS DA UFTM",
+      "nomeRazaoSocialFornecedor": "UTIMIX COMERCIO LTDA",
+      "niFornecedor": "56348381000159",
+      "quantidadeHomologadaVencedor": "3500,00",
+      "valorUnitario": "0,40",
+      "valorTotal": "1400,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/15126437000305/2025/1285/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00043/20",
+      "nomeUnidadeGerenciadora": "COMANDO DE FRONTEIRA JURUA E 61º BIS",
+      "nomeRazaoSocialFornecedor": "PAPELARIA MUNDO IMPORTACAO E EXPORTACAO LTDA",
+      "niFornecedor": "14869791000103",
+      "quantidadeHomologadaVencedor": "120,00",
+      "valorUnitario": "29,00",
+      "valorTotal": "3480,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/00394452000103/2025/15341/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00666/20",
+      "nomeUnidadeGerenciadora": "HOSPITAL UNIVERSITARIO DE SANTA MARIA",
+      "nomeRazaoSocialFornecedor": "TACCUINO DISTRIBUIDORA DE MATERIAIS LTDA",
+      "niFornecedor": "48057203000140",
+      "quantidadeHomologadaVencedor": "4300,00",
+      "valorUnitario": "0,48",
+      "valorTotal": "2064,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/15126437000305/2025/942/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00035/20",
+      "nomeUnidadeGerenciadora": "COMANDO DE ARTILHARIA DIVISIONARIA/3",
+      "nomeRazaoSocialFornecedor": "CASA VAREJAO ARTIGOS DESPORTIVOS LTDA",
+      "niFornecedor": "33101460000165",
+      "quantidadeHomologadaVencedor": "450,00",
+      "valorUnitario": "2,44",
+      "valorTotal": "1098,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/21744847000150/2024/4/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00391/20",
+      "nomeUnidadeGerenciadora": "EBSERH CHC-UFPR",
+      "nomeRazaoSocialFornecedor": "MBEM COMERCIO E DISTRIBUICAO DE MATERIAIS ESCOLARES LTDA",
+      "niFornecedor": "39700820000121",
+      "quantidadeHomologadaVencedor": "8400,00",
+      "valorUnitario": "0,53",
+      "valorTotal": "4452,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/15126437000305/2025/1313/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00067/20",
+      "nomeUnidadeGerenciadora": "BASE DE ABASTEC. DA MARINHA NO RIO DE JANEIRO",
+      "nomeRazaoSocialFornecedor": "COMERCIAL COSTA FERREIRA LTDA.",
+      "niFornecedor": "57650919000148",
+      "quantidadeHomologadaVencedor": "100,00",
+      "valorUnitario": "27,15",
+      "valorTotal": "2715,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/00394502000144/2024/19622/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00478/20",
+      "nomeUnidadeGerenciadora": "HOSPITAL UNIVERSITARIO DA UFJF",
+      "nomeRazaoSocialFornecedor": "RC RAMOS COMERCIO LTDA",
+      "niFornecedor": "07048323000102",
+      "quantidadeHomologadaVencedor": "4000,00",
+      "valorUnitario": "0,49",
+      "valorTotal": "1960,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/15126437000305/2025/526/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00478/20",
+      "nomeUnidadeGerenciadora": "HOSPITAL UNIVERSITARIO DA UFJF",
+      "nomeRazaoSocialFornecedor": "RC RAMOS COMERCIO LTDA",
+      "niFornecedor": "07048323000102",
+      "quantidadeHomologadaVencedor": "1000,00",
+      "valorUnitario": "0,49",
+      "valorTotal": "490,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/15126437000305/2025/526/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00007/20",
+      "nomeUnidadeGerenciadora": "CONSELHO REGIONAL DE ENFERMAGEM DO CEARÁ",
+      "nomeRazaoSocialFornecedor": "ROMULO DO NASCIMENTO FERREIRA LTDA",
+      "niFornecedor": "19005204000143",
+      "quantidadeHomologadaVencedor": "110,00",
+      "valorUnitario": "26,23",
+      "valorTotal": "2885,30",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/06572788000197/2025/30/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00052/20",
+      "nomeUnidadeGerenciadora": "COMANDO DE ARTILHARIA DIVISIONARIA/3",
+      "nomeRazaoSocialFornecedor": "HELLA COMERCIO E SERVICOS LTDA",
+      "niFornecedor": "59777691000187",
+      "quantidadeHomologadaVencedor": "20,00",
+      "valorUnitario": "26,95",
+      "valorTotal": "539,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/21744847000150/2025/1814/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00286/20",
+      "nomeUnidadeGerenciadora": "HOSPITAL UNIVERSITARIO DE LAGARTO",
+      "nomeRazaoSocialFornecedor": "ACS EMPREENDIMENTOS LTDA",
+      "niFornecedor": "51600250000101",
+      "quantidadeHomologadaVencedor": "756,00",
+      "valorUnitario": "0,75",
+      "valorTotal": "567,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/15126437000305/2025/1609/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00286/20",
+      "nomeUnidadeGerenciadora": "HOSPITAL UNIVERSITARIO DE LAGARTO",
+      "nomeRazaoSocialFornecedor": "ACS EMPREENDIMENTOS LTDA",
+      "niFornecedor": "51600250000101",
+      "quantidadeHomologadaVencedor": "2628,00",
+      "valorUnitario": "0,70",
+      "valorTotal": "1839,60",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/15126437000305/2025/1609/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00103/20",
+      "nomeUnidadeGerenciadora": "FUNDACAO UNIVERSIDADE DO AMAZONAS",
+      "nomeRazaoSocialFornecedor": "R. G. XAVIER GUIMARAES LTDA",
+      "niFornecedor": "32969749000138",
+      "quantidadeHomologadaVencedor": "20,00",
+      "valorUnitario": "24,49",
+      "valorTotal": "489,80",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/04378626000197/2025/75/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00369/20",
+      "nomeUnidadeGerenciadora": "BASE ADM DA BRIGADA DE INFANTARIA PQDT",
+      "nomeRazaoSocialFornecedor": "41.177.760 ROSENIR COSTA DOS SANTOS",
+      "niFornecedor": "41177760000156",
+      "quantidadeHomologadaVencedor": "47691,00",
+      "valorUnitario": "0,33",
+      "valorTotal": "15738,03",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/00394452000103/2025/18976/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00204/20",
+      "nomeUnidadeGerenciadora": "CENTRO TECNOLOGICO DO CORPO DE FUZ. NAVAIS",
+      "nomeRazaoSocialFornecedor": "ANA C S COMERCIAL LTDA",
+      "niFornecedor": "18800925000182",
+      "quantidadeHomologadaVencedor": "200,00",
+      "valorUnitario": "26,99",
+      "valorTotal": "5398,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/00394502002864/2025/2336/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00185/20",
+      "nomeUnidadeGerenciadora": "50 BATALHAO DE INFANTARIA DE SELVA",
+      "nomeRazaoSocialFornecedor": "M3. BUSINESS GROUP LTDA",
+      "niFornecedor": "54494740000150",
+      "quantidadeHomologadaVencedor": "1000,00",
+      "valorUnitario": "0,48",
+      "valorTotal": "480,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/00394452000103/2025/20230/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00748/20",
+      "nomeUnidadeGerenciadora": "GRUPAMENTO DE APOIO DE BELEM",
+      "nomeRazaoSocialFornecedor": "AMAZON ECO COMERCIO LTDA",
+      "niFornecedor": "13862822000123",
+      "quantidadeHomologadaVencedor": "2000,00",
+      "valorUnitario": "17,99",
+      "valorTotal": "35980,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/00394429000100/2025/2501/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00003/20",
+      "nomeUnidadeGerenciadora": "CONSELHO REGIONAL DE CONTABILIDADE",
+      "nomeRazaoSocialFornecedor": "CIPRIANI IMPORTACAO E EXPORTACAO LTDA",
+      "niFornecedor": "01805545000138",
+      "quantidadeHomologadaVencedor": "3000,00",
+      "valorUnitario": "4,73",
+      "valorTotal": "14190,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/00732012000100/2025/10/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00069/20",
+      "nomeUnidadeGerenciadora": "PREF.MUN.DE ITABORAI/RJ",
+      "nomeRazaoSocialFornecedor": "VALTEX DE NITEROI COMERCIO E SERVICO LTDA",
+      "niFornecedor": "02001594000180",
+      "quantidadeHomologadaVencedor": "5000,00",
+      "valorUnitario": "1,30",
+      "valorTotal": "6500,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/28741080000155/2025/52/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00156/20",
+      "nomeUnidadeGerenciadora": "INST. FED. DE EDUC.,CIENC. E TEC. DE RONDONIA",
+      "nomeRazaoSocialFornecedor": "APOLO SOLUCOES E DISTRIBUICOES LTDA",
+      "niFornecedor": "05789763000187",
+      "quantidadeHomologadaVencedor": "500,00",
+      "valorUnitario": "0,78",
+      "valorTotal": "390,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/10817343000105/2025/145/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00319/20",
+      "nomeUnidadeGerenciadora": "PREF.MUN.DE CATAGUASES/MG",
+      "nomeRazaoSocialFornecedor": "RC RAMOS COMERCIO LTDA",
+      "niFornecedor": "07048323000102",
+      "quantidadeHomologadaVencedor": "329,00",
+      "valorUnitario": "24,65",
+      "valorTotal": "8109,85",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/17702499000262/2025/117/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00011/20",
+      "nomeUnidadeGerenciadora": "CONSORCIO INTERM.DE SANEAM.DA REG.CENTRAL RO",
+      "nomeRazaoSocialFornecedor": "START SHOP GLOBAL LTDA",
+      "niFornecedor": "37912727000155",
+      "quantidadeHomologadaVencedor": "7,00",
+      "valorUnitario": "36,25",
+      "valorTotal": "253,75",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/10914290000132/2025/16/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00011/20",
+      "nomeUnidadeGerenciadora": "CONSORCIO INTERM.DE SANEAM.DA REG.CENTRAL RO",
+      "nomeRazaoSocialFornecedor": "START SHOP GLOBAL LTDA",
+      "niFornecedor": "37912727000155",
+      "quantidadeHomologadaVencedor": "7,00",
+      "valorUnitario": "35,69",
+      "valorTotal": "249,83",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/10914290000132/2025/16/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00011/20",
+      "nomeUnidadeGerenciadora": "CONSORCIO INTERM.DE SANEAM.DA REG.CENTRAL RO",
+      "nomeRazaoSocialFornecedor": "START SHOP GLOBAL LTDA",
+      "niFornecedor": "37912727000155",
+      "quantidadeHomologadaVencedor": "6,00",
+      "valorUnitario": "36,25",
+      "valorTotal": "217,50",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/10914290000132/2025/16/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00359/20",
+      "nomeUnidadeGerenciadora": "VOLTA REDONDA PREFEITURA",
+      "nomeRazaoSocialFornecedor": "RC RAMOS COMERCIO LTDA",
+      "niFornecedor": "07048323000102",
+      "quantidadeHomologadaVencedor": "600,00",
+      "valorUnitario": "24,84",
+      "valorTotal": "14904,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/32512501000143/2025/187/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "90173/20",
+      "nomeUnidadeGerenciadora": "4 REGIMENTO DE CAVALARIA BLINDADO",
+      "nomeRazaoSocialFornecedor": "TACCUINO DISTRIBUIDORA DE MATERIAIS LTDA",
+      "niFornecedor": "48057203000140",
+      "quantidadeHomologadaVencedor": "80,00",
+      "valorUnitario": "24,90",
+      "valorTotal": "1992,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/00394452000103/2025/15750/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "01010/20",
+      "nomeUnidadeGerenciadora": "HOSPITAL DE CLINICAS DE UBERLANDIA",
+      "nomeRazaoSocialFornecedor": "M3. BUSINESS GROUP LTDA",
+      "niFornecedor": "54494740000150",
+      "quantidadeHomologadaVencedor": "10000,00",
+      "valorUnitario": "0,48",
+      "valorTotal": "4800,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/15126437000305/2025/4049/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00002/20",
+      "nomeUnidadeGerenciadora": "PREFEITURA MUNICIPAL DE HORIZONTE CE",
+      "nomeRazaoSocialFornecedor": "MN EMPREENDIMENTOS E SOLUCOES ADMINISTRATIVAS LTDA",
+      "niFornecedor": "35649638000132",
+      "quantidadeHomologadaVencedor": "15480,00",
+      "valorUnitario": "3,44",
+      "valorTotal": "53251,20",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/23555196000186/2025/162/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00002/20",
+      "nomeUnidadeGerenciadora": "PREFEITURA MUNICIPAL DE HORIZONTE CE",
+      "nomeRazaoSocialFornecedor": "MN EMPREENDIMENTOS E SOLUCOES ADMINISTRATIVAS LTDA",
+      "niFornecedor": "35649638000132",
+      "quantidadeHomologadaVencedor": "1720,00",
+      "valorUnitario": "3,44",
+      "valorTotal": "5916,80",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/23555196000186/2025/162/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00531/20",
+      "nomeUnidadeGerenciadora": "LKA BRINDES E SERVICOS LTDA 23.288.828/0001-92",
+      "nomeRazaoSocialFornecedor": "10000,0",
+      "niFornecedor": "23288828000192",
+      "quantidadeHomologadaVencedor": "10000,00",
+      "valorUnitario": "1,44",
+      "valorTotal": "14400,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/16899018000107/2025/8/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00124/20",
+      "nomeUnidadeGerenciadora": "BASE NAVAL DO RIO DE JANEIRO",
+      "nomeRazaoSocialFornecedor": "M3. BUSINESS GROUP LTDA",
+      "niFornecedor": "54494740000150",
+      "quantidadeHomologadaVencedor": "800,00",
+      "valorUnitario": "0,62",
+      "valorTotal": "496,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/00394502000144/2025/9856/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00001/20",
+      "nomeUnidadeGerenciadora": "EES - SECRETARIA ESTADUAL DAS MULHERES",
+      "nomeRazaoSocialFornecedor": "MP COMERCIO E SERVICO LTDA",
+      "niFornecedor": "19312691000197",
+      "quantidadeHomologadaVencedor": "28500,00",
+      "valorUnitario": "3,69",
+      "valorTotal": "105165,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/50235855000170/2025/54/1"
+    },
+    {
+      "numeroAtaRegistroPreco": "00002/20",
+      "nomeUnidadeGerenciadora": "JUSTICA FEDERAL DE PRIMEIRO GRAU - AL",
+      "nomeRazaoSocialFornecedor": "ACS EMPREENDIMENTOS LTDA",
+      "niFornecedor": "51600250000101",
+      "quantidadeHomologadaVencedor": "800,00",
+      "valorUnitario": "0,70",
+      "valorTotal": "560,00",
+      "numeroControlePncpCompra": "https://pncp.gov.br/app/atas/00508903000188/2025/2298/1"
+    }
+  ]
+}
